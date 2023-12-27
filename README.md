@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/when-implementations-affect-abstractions-1bb2adc808d1?sk=56745bd95c95e2011ce3dcb2bcef053d" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/when-implementations-affect-abstractions" />
 
 # When Implementations Affect Abstractions
 ### Could the knowledge of implementations affect abstractions design?
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*zGHaOHYGV4LRCqSlyAtMBg.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_f0c108700b0f47389fbf1b0379913d3c~mv2.png">
 </p>
 
 <br/>
@@ -77,4 +77,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/when-implementations-affect-abstractions-1bb2adc808d1?sk=56745bd95c95e2011ce3dcb2bcef053d
+[Article]: https://www.developmentsimplyput.com/post/when-implementations-affect-abstractions
